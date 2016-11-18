@@ -1,6 +1,6 @@
 header {
   background-color: #ebebe0;
-  color: #aaa;
+  color: #333;
   border: 2px solid #aaa;
 }
 
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-  color: #e65c00;
+  color: #444;
   text-align: center;
 }
 
@@ -85,8 +85,12 @@ article {
 
 
 footer {
+  color: #333;
   font-size: 1.2em;
   text-align: center;
   max-height: 50px;
 }
 
+#bottom {
+  color: red;
+}
